@@ -1,5 +1,6 @@
 # hyper-snazzy-xfce4
 The hyper-snazzy theme for the xfce4 terminal
+<img src="screenshot.png" width="790">
 ## Installation
 Clone this repository somewhere on your filesystem. Then copy the theme file into the xfce4 colorschemes folder.
 ```sh
