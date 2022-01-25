@@ -8,4 +8,4 @@ git clone https://github.com/cblumens/xfce4-terminal-snazzy
 cd xfce4-terminal-snazzy
 cp hyper-snazzy.theme ~/.local/share/xfce4/terminal/colorschemes/hyper-snazzy.theme
 ```
-In the screenshot you see Pure running in Xfce4 Terminal with hyper-snazzy theme and Menlo font.
+In the screenshot you see Pure running in Xfce4 Terminal with the Layan-gtk dark theme and Menlo font.
