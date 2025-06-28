@@ -1,11 +1,17 @@
 # hyper-snazzy-xfce4
-The hyper-snazzy theme for the xfce4 terminal
+
+A vibrant terminal color scheme bringing the popular hyper-snazzy theme to Xfce4 Terminal.
 <img src="screenshot.png" width="790">
+
+## Overview
+
+This package provides a faithful port of the beloved hyper-snazzy color scheme for Xfce4 Terminal users. The theme features carefully selected colors that enhance readability while maintaining the distinctive aesthetic that makes hyper-snazzy a developer favorite.
+
 ## Installation
-Clone this repository somewhere on your filesystem. Then copy the theme file into the xfce4 colorschemes folder.
-```sh
-git clone https://github.com/cblumens/xfce4-terminal-snazzy
+
+### Quick Install
+
+```bash
+git clone https://github.com/cblumens/xfce4-terminal-snazzy.git
 cd xfce4-terminal-snazzy
-cp hyper-snazzy.theme ~/.local/share/xfce4/terminal/colorschemes/hyper-snazzy.theme
-```
-In the screenshot you see Pure running in Xfce4 Terminal with the Layan-gtk dark theme and Menlo font.
+cp hyper-snazzy.theme ~/.local/share/xfce4/terminal/colorschemes/
