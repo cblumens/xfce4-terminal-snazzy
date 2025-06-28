@@ -1,6 +1,7 @@
 # hyper-snazzy-xfce4
 
 A vibrant terminal color scheme bringing the popular hyper-snazzy theme to Xfce4 Terminal.
+
 <img src="screenshot.png" width="790">
 
 ## Overview
